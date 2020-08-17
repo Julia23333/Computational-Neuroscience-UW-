@@ -1,1 +1,1 @@
-# Computational-Neuroscience-UW-
+# Computational-Neuroscience-UW
